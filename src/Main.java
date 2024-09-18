@@ -21,8 +21,5 @@ public class Main {
 
         //SUPER DIRTY OUTPUT - Definitely would be doing input validation in the real world
         System.out.println("Your grade is a " + NUMBER_GRADES[java.util.Arrays.asList(LETTER_GRADES).indexOf(gradeLetter)] + ".");
-
-
-
     }
 }
